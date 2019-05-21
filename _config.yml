@@ -1,0 +1,28 @@
+safe: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+
+show_drafts: false
+future: false
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: date
+timezone: Europe/London
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: 2..6

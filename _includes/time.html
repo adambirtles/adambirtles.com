@@ -1,0 +1,1 @@
+<time datetime="{{ include.time | default:site.time | date_to_xmlschema }}">{% if include.fmt %}{{ include.time | default:site.time | date:include.fmt }}{% else %}{{ include.time | default:site.time | date:"%a, %d %b %Y %T %Z" }}{% endif %}</time>
