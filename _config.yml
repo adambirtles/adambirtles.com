@@ -1,19 +1,24 @@
+lsi: false
 safe: true
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
   - CNAME
+encoding: utf-8
 
 show_drafts: false
 future: false
+jailed: false
 
 markdown: kramdown
+theme: null
+gfm_quirks: paragraph_end
 highlighter: rouge
+incremental: false
 
 permalink: date
 timezone: Europe/London
-
 defaults:
   -
     scope:
@@ -22,7 +27,13 @@ defaults:
     values:
       layout: default
 
+gist:
+  noscript: false
+
 kramdown:
   input: GFM
+  hard_wrap: false
   auto_ids: true
   toc_levels: 2..6
+  math_engine: mathjax
+  syntax_highlighter: rouge
