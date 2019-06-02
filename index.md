@@ -1,5 +1,6 @@
 ---
 title: no
+description: Hi! I'm Adam, a Computer Science student at the University of York.
 ---
 # Hello!
 
