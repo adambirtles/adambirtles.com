@@ -6,7 +6,7 @@ description: Hi! I'm Adam, a Computer Science student at the University of York.
 
 My name is Adam Birtles. I am:
 
-- A Computer Science student at the University of York
+- A Computer Science undergraduate at the University of York
 - Computing Director for [York Student Television][ystv]
 - Secretary for [HackSoc][hacksoc]
 
