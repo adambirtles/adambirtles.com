@@ -1,6 +1,10 @@
 ---
 title: no
 description: Hi! I'm Adam, a Computer Science student at the University of York.
+sitemap:
+    lastmod: site.time
+    changefreq: yearly
+    priority: 1.0
 ---
 # Hello!
 
