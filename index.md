@@ -12,7 +12,7 @@ My name is Adam Birtles. I am:
 
 - A Computer Science undergraduate at the University of York
 - Computing Director for [York Student Television][ystv]
-- Co-secretary elect for [HackSoc][hacksoc]
+- Co-secretary for [HackSoc][hacksoc]
 
 You can find me on [GitHub][github].
 
