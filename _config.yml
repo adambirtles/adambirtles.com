@@ -9,6 +9,9 @@ exclude:
   - CNAME
 encoding: utf-8
 
+plugins:
+  - "jekyll-github-metadata"
+
 show_drafts: false
 future: false
 jailed: false
